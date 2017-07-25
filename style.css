@@ -1,0 +1,20 @@
+
+#boringaf {
+  color: rgb(255, 0, 0);
+font-family: monospace;
+font-size: 30px;
+}
+
+.boring {
+  font-family: monospace;
+}
+
+/*h1 {
+  color: rgb(255, 0, 0);
+  font-family: monospace;
+  font-size: 30px;
+}*/
+
+p{font-size: 12;
+  font-family: monospace;
+}
